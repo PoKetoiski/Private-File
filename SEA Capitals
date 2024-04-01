@@ -1,0 +1,68 @@
+{
+    "BRN": {
+        "name": "Brunei",
+        "capital": "Bandar Seri Begawan",
+        "lat": "4.9031",
+        "long": "114.9408"
+    },
+    "KHM": {
+        "name": "Cambodia",
+        "capital": "Phnom Penh",
+        "lat": "11.5564",
+        "long": "104.9282"
+    },
+    "IDN": {
+        "name": "Indonesia",
+        "capital": "Jakarta",
+        "lat": "6.2088",
+        "long": "106.8456"
+    },
+    "LAO": {
+        "name": "Laos",
+        "capital": "Vientiane",
+        "lat": "17.9757",
+        "long": "102.6331"
+    },
+    "MYS": {
+        "name": "Malaysia",
+        "capital": "Kuala Lumpur",
+        "lat": "3.1390",
+        "long": "101.6869"
+    },
+    "MMR": {
+        "name": "Myanmar (Burma)",
+        "capital": "Naypyidaw",
+        "lat": "19.7633",
+        "long": "96.0785"
+    },
+    "PHL": {
+        "name": "Philippines",
+        "capital": "Manila",
+        "lat": "14.5995",
+        "long": "120.9842"
+    },
+    "SGP": {
+        "name": "Singapore",
+        "capital": "Singapore",
+        "lat": "1.3521",
+        "long": "103.8198"
+    },
+    "THA": {
+        "name": "Thailand",
+        "capital": "Bangkok",
+        "lat": "13.7563",
+        "long": "100.5018"
+    },
+    "TLS": {
+        "name": "Timor-Leste",
+        "capital": "Dili",
+        "lat": "8.5586",
+        "long": "125.5736"
+    },
+    "VNM": {
+        "name": "Vietnam",
+        "capital": "Hanoi",
+        "lat": "21.0278",
+        "long": "105.8342"
+    }
+}
