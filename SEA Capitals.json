@@ -2,7 +2,7 @@
     "BRN": {
         "name": "Brunei",
         "capital": "Bandar Seri Begawan",
-        "lat": "4.9031",
+        "lat": "4.31",
         "long": "114.9408"
     },
     "KHM": {
@@ -14,8 +14,8 @@
     "IDN": {
         "name": "Indonesia",
         "capital": "Jakarta",
-        "lat": "6.2088",
-        "long": "106.8456"
+        "lat": "6.88",
+        "long": "106.56"
     },
     "LAO": {
         "name": "Laos",
